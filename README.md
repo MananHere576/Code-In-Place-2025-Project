@@ -63,11 +63,11 @@ CatchQuest/
 ---
 
 ## 🏁 Controls
--🟰 Move the paddle left and right using arrow keys
+- 🟰 Move the paddle left and right using arrow keys
 
--⏹️ Catch the shapes to earn points
+- ⏹️ Catch the shapes to earn points
 
--🔁 Press R to restart after game over
+- 🔁 Press R to restart after game over
 
 ---
 
