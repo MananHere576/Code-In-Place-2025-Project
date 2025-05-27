@@ -46,7 +46,7 @@ A big **thank you** to the **Code in Place 2025** team! 🙏 Your teachings, sup
 
 ### 2. Install Dependencies
 - pip install pygame
-###3. Run the Game
+### 3. Run the Game
 - python main.py
 
 ---
