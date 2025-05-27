@@ -15,7 +15,6 @@ A big **thank you** to the **Code in Place 2025** team! 🙏 Your teachings, sup
 
 - 🎮 **Catch falling shapes** using your paddle  
 - 🚀 Increasing difficulty for added challenge  
-- 🎵 Sound effects to enhance gameplay  
 - 📈 **Score tracking** and display  
 - 🔁 **Restart option** to play again instantly  
 - ✨ Smooth Pygame animations and UI  
